@@ -23,3 +23,17 @@ Milestone_project_1(TikTakToe Game)/
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
+
+
+python main.py
+
+
+
+
+ Features
+Modular code using OOP (Python classes)
+
+Clear and simple terminal UI
+
+Easy to extend with AI or GUI in the future
